@@ -1,0 +1,37 @@
+Драйвер - автоматизированное управление браузером
+
+Что делает:
+• Запустить браузер
+• Открыть URL
+• Найти элемент
+• Кликнуть по ссылке
+• Закрыть браузер
+
+https://www.w3.org/TR/webdriver/
+• Описание
+• Набор Команд
+• Алгоритмы
+• Механизм расширения
+
+Куда положить драйвер:
+https://www.selenium.dev/downloads/
+
+Опции командной строки Chrome:
+http://peter.sh/experiments/chromium-command-line-switches/
+Опции командной строки Firefox:
+https://developer.mozilla.org/en-US/docs/Mozilla/Command_Line_Opti
+ons
+Опции командной строки Internet Explorer:
+https://msdn.microsoft.com/ru-ru/library/hh826025(v=vs.85).aspx
+
+**********************************************
+Официальный сайт: http://www.seleniumhq.org/
+Официальный блог: https://seleniumhq.wordpress.com/, никакой технической информации, только
+новости
+Русскоязычный сайт: http://selenium2.ru/
+Лента новостей: http://selenium2.ru/news.html , новости публикуются чаще и больше, чем в
+официальном блоге
+Форум (на русском):
+http://software-testing.ru/forum/index.php?/forum/129-selenium-functional-testing/
+Группа в Facebook (на русском): https://www.facebook.com/groups/selenium.ru/
+IRC-чат (на английском): http://webchat.freenode.net/?channels=%23selenium
